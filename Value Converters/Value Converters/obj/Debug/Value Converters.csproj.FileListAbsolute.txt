@@ -1,0 +1,15 @@
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\App.g.cs
+C:\Users\profm\Desktop\NMC\CIt 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\Value Converters_MarkupCompile.cache
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\MainWindow.g.cs
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\Value Converters_MarkupCompile.lref
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\bin\Debug\Value Converters.exe.config
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\bin\Debug\Value Converters.exe
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\bin\Debug\Value Converters.pdb
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\MainWindow.baml
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\Value Converters.g.resources
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\Value_Converters.Properties.Resources.resources
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\Value Converters.csproj.GenerateResource.cache
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\Value Converters.csproj.CoreCompileInputs.cache
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\Value Converters.exe
+C:\Users\profm\Desktop\NMC\CIT 195\Blend Tutorials\Value Converters\Value Converters\obj\Debug\Value Converters.pdb
